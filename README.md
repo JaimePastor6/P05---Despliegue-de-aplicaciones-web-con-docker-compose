@@ -6,11 +6,11 @@ Las aplicaciones a desplegar son:
 
 - Servidor web Apache
 
-Descargamos la imagen httpd:![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Servidor%20web%20Apache/Capturas/Pull%20imagen%20.png)
+Descargamos la imagen httpd:![(Descargamos imagen](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Servidor%20web%20Apache/Capturas/Pull%20imagen%20.png)
 
 Para desplegar el contenedor ponemos docker compose up –d (-d es opcional, detached mode sirve para ejecutar contenedores en segundo plano):
 
-![]([https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/fc187a8cc2fbe266449f7ad934d7cc82565eca69/Servidor%20web%20Apache/Capturas/Pull%20imagen%20.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Servidor%20web%20Apache/Capturas/docker%20compose%20up%20-d%20.png)
+![(docker compose up]([https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/fc187a8cc2fbe266449f7ad934d7cc82565eca69/Servidor%20web%20Apache/Capturas/Pull%20imagen%20.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Servidor%20web%20Apache/Capturas/docker%20compose%20up%20-d%20.png)
 
 
 

@@ -16,7 +16,7 @@ Para desplegar el contenedor ponemos docker compose up –d (-d es opcional, det
 
 Para verlo en la web podemos dar clic derecho en la imagen desde el Visual Studio Code y darle a “Open in Browser” o en el buscador de internet poner localhost:8080:
 
-![]([Servidor web Apache/Capturas/Open in browse .png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Servidor%20web%20Apache/Capturas/Open%20in%20browse%20.png)
+![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Servidor%20web%20Apache/Capturas/Open%20in%20browse%20.png)
 
 Datos del docker-compose.yml:
 
@@ -45,7 +45,7 @@ services:
 
 - Mediawiki 
 
-Descargamos la imagen Mediawiki:![]([Aspose.Words.8861e317-3906-4af9-abe1-06f4572474aa.004.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Mediawiki/Capturas/Docker%20pull%20.png)
+Descargamos la imagen Mediawiki:![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Mediawiki/Capturas/Docker%20pull%20.png)
 
 Para desplegar el contenedor ponemos docker compose up –d:
 

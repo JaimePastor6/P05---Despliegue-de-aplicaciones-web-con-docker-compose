@@ -6,7 +6,7 @@ Las aplicaciones a desplegar son:
 
 - Servidor web Apache
 
-Descargamos la imagen httpd:![]((https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Servidor%20web%20Apache/Capturas/Pull%20imagen%20.png))
+Descargamos la imagen httpd:![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Servidor%20web%20Apache/Capturas/Pull%20imagen%20.png)
 
 Para desplegar el contenedor ponemos docker compose up –d (-d es opcional, detached mode sirve para ejecutar contenedores en segundo plano):
 

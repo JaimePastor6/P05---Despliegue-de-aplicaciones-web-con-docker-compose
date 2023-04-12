@@ -49,11 +49,11 @@ Descargamos la imagen Mediawiki:![](https://github.com/JaimePastor6/P05---Despli
 
 Para desplegar el contenedor ponemos docker compose up –d:
 
-![]([Aspose.Words.8861e317-3906-4af9-abe1-06f4572474aa.005.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Mediawiki/Capturas/Docker%20compose%20up%20-d%20.png)
+![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Mediawiki/Capturas/Docker%20compose%20up%20-d%20.png)
 
 Lo vemos en la web:
 
-![]([Aspose.Words.8861e317-3906-4af9-abe1-06f4572474aa.006.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Mediawiki/Capturas/Open%20in%20browser%20.png)
+![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Mediawiki/Capturas/Open%20in%20browser%20.png)
 
 Datos del docker-compose.yml:
 
@@ -92,9 +92,9 @@ volumes:
 
 Descargamos la imagen Guestbook:
 
-![]([Aspose.Words.8861e317-3906-4af9-abe1-06f4572474aa.007.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Guestbook/Capturas/pull%20imagen.png)
+![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Guestbook/Capturas/pull%20imagen.png)
 
-Para desplegar el contenedor ponemos docker compose up –d:![]([Aspose.Words.8861e317-3906-4af9-abe1-06f4572474aa.008.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Guestbook/Capturas/docker%20compose%20up%20-d.png)
+Para desplegar el contenedor ponemos docker compose up –d:![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Guestbook/Capturas/docker%20compose%20up%20-d.png)
 
 Datos del docker-compose.yml:
 
@@ -133,13 +133,13 @@ services:
 
 Descargamos la imagen Wordpress	:
 
-![]([Aspose.Words.8861e317-3906-4af9-abe1-06f4572474aa.009.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Wordpress/Capturas/imagen%20pull.png)
+![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Wordpress/Capturas/imagen%20pull.png)
 
 Para desplegar el contenedor ponemos docker compose up –d:
 
-![]([Aspose.Words.8861e317-3906-4af9-abe1-06f4572474aa.010.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Wordpress/Capturas/Docker%20compose%20up%20-d.png)
+![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Wordpress/Capturas/Docker%20compose%20up%20-d.png)
 
-Lo vemos en la web:![]([Aspose.Words.8861e317-3906-4af9-abe1-06f4572474aa.011.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Wordpress/Capturas/Open%20in%20browser.png)
+Lo vemos en la web:![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/Wordpress/Capturas/Open%20in%20browser.png)
 
 Datos del docker-compose.yml:
 
@@ -211,16 +211,16 @@ volumes:
 
 Descargamos la imagen adminer:
 
-![]([Aspose.Words.8861e317-3906-4af9-abe1-06f4572474aa.012.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/adminer/Capturas/pull%20imagen.png)
+![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/adminer/Capturas/pull%20imagen.png)
 
 
 Para desplegar el contenedor ponemos docker compose up –d:
 
-![]([Aspose.Words.8861e317-3906-4af9-abe1-06f4572474aa.013.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/adminer/Capturas/docker%20compose%20up%20-d%20.png)
+![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/adminer/Capturas/docker%20compose%20up%20-d%20.png)
 
 Lo vemos en la web:
 
-![]([Aspose.Words.8861e317-3906-4af9-abe1-06f4572474aa.014.png](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/adminer/Capturas/open%20in%20browser.png)
+![](https://github.com/JaimePastor6/P05---Despliegue-de-aplicaciones-web-con-docker-compose/blob/b0be91ecf9e3ac53b31ce218535423868d7b2562/adminer/Capturas/open%20in%20browser.png)
 
 
 
